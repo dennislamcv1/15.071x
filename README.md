@@ -1,2 +1,2 @@
 # 15.071x
-The Analytics Edge
+The Analytics Edge by MIT
